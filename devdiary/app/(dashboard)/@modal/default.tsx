@@ -1,0 +1,1 @@
+export default function DefaultModal() { return null; } // Jab modal open nahi hai, toh kuch mat dikhao
