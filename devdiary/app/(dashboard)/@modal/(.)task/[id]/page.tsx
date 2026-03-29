@@ -11,7 +11,7 @@ import { tasks } from '@/lib/data';
       <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
         <div className="bg-white p-8 rounded shadow-lg max-w-md w-full relative">
           <CloseModalBtn />
-          <h1 className="text-2xl font-bold">{task.title} (MODAL VIEW)</h1>
+          <h1 className="text-2xl font-bold">model test page{task.title} (MODAL VIEW)</h1>
           <p className="mt-2 text-gray-600">{task.desc}</p>
         </div>
       </div>
